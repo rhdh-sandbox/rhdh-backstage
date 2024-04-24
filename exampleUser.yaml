@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: utherp0 
+spec:
+  profile:
+    displayName: Me On RHDH 
+    email: uther@redhat.com
+  memberOf: []
